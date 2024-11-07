@@ -618,4 +618,4 @@ References:
 
 Applying SOLID Design Principles in Angular: Best Practices and Examples - DevBySeb
 
-## **Repository Link:** 
+## **Repository Link:** https://github.com/Darsssiiieee/SIA-102-ACT25
